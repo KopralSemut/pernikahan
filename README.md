@@ -1,2 +1,2 @@
 # pernikahan
-<img src = "image/Contoh.png">
+<img src = "images/Contoh.png">
